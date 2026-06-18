@@ -1,15 +1,15 @@
 ---
 # preview details
 layout: works-single
-title: Explore
+title: railway
 category: Development
 category_slug: development
-image: assets/img/works/work7.jpg
-short_description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore.
+image: assets/img/works/railway.png
+short_description: 로컬 개발 환경을 넘어 Railway 클라우드 플랫폼을 활용하여 백엔드 서버를 배포했습니다. 이를 통해 안드로이드 클라이언트가 어디서든 보안 분석 서버에 접근할 수 있는 실무적인 DMZ 아키텍처를 구현했습니다.
 
 # full details
 live_preview: https://bslthemes.com
-full_image: assets/img/works/single1.jpg
+full_image: assets/img/works/railway.png
 info:
   - label: Year
     value: 2022
